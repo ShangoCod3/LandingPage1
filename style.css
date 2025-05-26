@@ -69,7 +69,9 @@ a:hover {
   width: fit-content;
   margin: 40px auto
 
-  p {
-padding-top: 500px;
-  padding-left: 50px;
+footer {
+  margin-top: auto;
+  text-align: center;
+  padding: 1em 0;
+  background: #f1f1f1; /* optional styling */
 }
